@@ -1,4 +1,4 @@
-type User={
+/* type User={
     name:string;
     age:number;
 };
@@ -43,3 +43,4 @@ interface IRollNumber{
 
 const rollNumbers:rollNumbersType=[3,5,6];
 const rollNumbers2:IRollNumber=[3,5,6];
+ */

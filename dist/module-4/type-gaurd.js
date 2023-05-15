@@ -1,3 +1,4 @@
+"use strict";
 /* //key of guard
 
 type Alphanumaric= string |number
@@ -92,4 +93,4 @@ const animal1=new Dog("German Bhai",'dog')//instance of dog
 const animal2 = new Cat("Moon",'cat') //instance of cat
 
 getAnimal(animal1)
- */
+ */ 

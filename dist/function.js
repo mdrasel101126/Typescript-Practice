@@ -1,3 +1,4 @@
+"use strict";
 /* //normal function
 
 function add(num1:number,num2:number=50){
@@ -25,4 +26,4 @@ const person:{
 
 const greetingsFriends=(...fridnds:string[]):void=>fridnds.forEach((friend:string)=>console.log(`Hi ${friend} whats up`));
 
-greetingsFriends("Rasel","Akash","Asif"); */
+greetingsFriends("Rasel","Akash","Asif"); */ 
